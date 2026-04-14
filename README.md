@@ -1,0 +1,1 @@
+# business-idea-validator
