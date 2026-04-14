@@ -1,0 +1,7 @@
+streamlit
+groq 
+pdfplumber
+pandas
+matplotlib
+yfinance
+plotly
