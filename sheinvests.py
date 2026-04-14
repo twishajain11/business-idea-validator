@@ -1,5 +1,5 @@
 import streamlit as st
-from groq import Groq
+from groq import groq
 import yfinance as yf
 import plotly.graph_objects as go
 import pandas as pd
